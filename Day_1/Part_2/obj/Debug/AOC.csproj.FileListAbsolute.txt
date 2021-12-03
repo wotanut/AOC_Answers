@@ -1,0 +1,7 @@
+C:\Users\blewittsh\source\repos\AOC\bin\Debug\AOC.exe.config
+C:\Users\blewittsh\source\repos\AOC\bin\Debug\AOC.exe
+C:\Users\blewittsh\source\repos\AOC\bin\Debug\AOC.pdb
+C:\Users\blewittsh\source\repos\AOC\obj\Debug\AOC.csprojAssemblyReference.cache
+C:\Users\blewittsh\source\repos\AOC\obj\Debug\AOC.csproj.CoreCompileInputs.cache
+C:\Users\blewittsh\source\repos\AOC\obj\Debug\AOC.exe
+C:\Users\blewittsh\source\repos\AOC\obj\Debug\AOC.pdb
